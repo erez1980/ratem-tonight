@@ -10,3 +10,6 @@
 
 ## איכות
 האתר מותאם למובייל, כולל reduced-motion, שמירת Easter Eggs ב־localStorage, ושמע שמתחיל רק אחרי מגע יזום.
+
+## Visual asset attribution
+- `assets/tesla-cinematic.jpg` — sourced from Unsplash for the cinematic car scene; colour grading and overlays are applied locally.
